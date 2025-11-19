@@ -1,5 +1,5 @@
 # Create the file and add all content
-cat > Linux.txt << 'EOF'
+
 # LINUX COMMANDS GUIDE
 # ===================================
 
@@ -397,4 +397,4 @@ Ctrl+R                                # Reverse search history
 7. Document your configurations
 
 # END OF LINUX COMMANDS GUIDE
-EOF
+
